@@ -1,0 +1,41 @@
+.teamInfoPage{
+    background-color: rgb(2, 2, 58);
+    color: rgb(248, 247, 247);
+    /* height: 100vh; */
+    height: 100%;
+}
+
+.teamBanner{
+    width: 100%;
+    background-color: rgb(223, 209, 209);
+    /* background-image:url("../../Leauge Logo/download.jpg") ; */
+    background-repeat: no-repeat;
+    line-height: 150px;
+   text-align: center;
+   
+}
+.team{
+    background-color: rgb(38, 18, 218);
+    border-radius: 10px;
+}
+.socialMedia{
+    text-align: center;
+    
+}
+.teamInfo{
+    font-weight: bold;
+}
+.teamBanner img{
+    height: 100px;
+}
+.teamImage{
+    text-align: right;
+}
+.teamImage img{
+    height: 200px;
+    width: 100%;
+    border-radius: 10px;
+}
+.socialMedia img{
+    width: 60px;
+}
